@@ -1,0 +1,37 @@
+<style>
+  body {
+    font-family: 'Bellefair', serif;
+  padding-top: 0px;
+  text-align: center;
+background-image: url('http://www.pellegrinomusic.com/assets/images/Flute.png');
+  background-size: cover;
+}
+h1, h2 {
+  
+  display: inline-block;
+  background:
+}
+h1 {
+  font-size: 90px;
+  border-style: solid;
+  border-width: 7;
+  border-color: #FFFFF;
+}
+
+h2 {
+  font-size: 20px;
+}
+span {
+  background: #fd0;
+}
+p{
+  font-size: 30;
+}
+</style>
+<font color="white"</font>
+
+<link href="https://fonts.googleapis.com/css?family=Bellefair" rel="stylesheet">
+<h1>Flute History</h1> 
+
+<p>Invention of the Flute</p>
+<pr></pr>
